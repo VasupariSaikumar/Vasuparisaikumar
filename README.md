@@ -1,5 +1,27 @@
-# 💫 About Me:
-i built Food ai app which suggest the nearest food stall of the user location <br>i know prompt engineering <br>i can build mvp apps by vibe coding <br>i know languages like java python kotlin <br>
+## 👋 About Me
+
+Hi, I'm **Vasupari** — a passionate developer focused on building practical, AI-powered applications.  
+I recently created **Food AI**, an app that suggests the nearest food stalls based on user location.  
+
+### 🚀 What I Do
+- Build MVP apps quickly through vibe coding and prototyping  
+- Apply **prompt engineering** for AI-driven solutions  
+- Develop Android apps with **Java**, **Kotlin**, and **Android Studio**  
+- Integrate **Firebase** for authentication, databases, and cloud services  
+- Explore AI/ML integration using **Python** and modern APIs  
+
+### 🛠️ Skills
+- **Languages:** Java, Python, Kotlin  
+- **Mobile Development:** Android Studio, Jetpack Compose  
+- **Backend & Cloud:** Firebase (Auth, Firestore, Realtime DB, Cloud Messaging)  
+- **AI/ML:** Prompt engineering, API integration, AI-powered recommendations  
+- **Tools & Platforms:** GitHub, Streamlit, Google Colab, Kaggle  
+
+### 🌟 Strengths
+- Rapid prototyping and MVP development  
+- Clear documentation and public-facing project presentation  
+- Strong troubleshooting across devices and deployment workflows  
+- Passionate about building apps with real-world impact  
 
 
 ## 🌐 Socials:
