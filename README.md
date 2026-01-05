@@ -6,7 +6,7 @@ I recently created **Food AI**, an app that suggests the nearest food stalls bas
 ### 🚀 What I Do
 - Build MVP apps quickly through vibe coding and prototyping  
 - Apply **prompt engineering** for AI-driven solutions  
-- Develop Android apps with **Java**, **Kotlin**, and **Android Studio**  
+- Develop Android apps with, **Kotlin**, and **Android Studio**  
 - Integrate **Firebase** for authentication, databases, and cloud services  
 - Explore AI/ML integration using **Python** and modern APIs  
 
