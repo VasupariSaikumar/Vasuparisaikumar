@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Hi, I'm **Vasupari** — a passionate developer focused on building practical, AI-powered applications.  
+Hi, I'm **Sai Kumar Vasupari** — a passionate developer focused on building practical, AI-powered applications.  
 I recently created **Food AI**, an app that suggests the nearest food stalls based on user location.  
 
 ### 🚀 What I Do
