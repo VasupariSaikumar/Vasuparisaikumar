@@ -1,34 +1,33 @@
 ## 👋 About Me
 
-Hi, I'm **Sai Kumar Vasupari** — a passionate developer focused on building practical, AI-powered applications.  
-I recently created **Food AI**, an app that suggests the nearest food stalls based on user location.  
+Hi, I'm **Sai Kumar Vasupari** — an Android Developer Intern and B.Tech AIML student. I specialize in building responsive, location-aware native Android applications by leveraging Kotlin, Jetpack Compose, and intelligent AI integrations. My focus is on bridging the gap between autonomous AI workflows and seamless, real-world mobile experiences.
 
 ### 🚀 What I Do
-- Build MVP apps quickly through vibe coding and prototyping  
-- Apply **prompt engineering** for AI-driven solutions  
-- Develop Android apps with, **Kotlin**, and **Android Studio**  
-- Integrate **Firebase** for authentication, databases, and cloud services  
-- Explore AI/ML integration using **Python** and modern APIs  
+- Build fast, native Android applications using **Kotlin**, **Jetpack Compose**, and clean MVVM architecture
+- Rapidly prototype and develop MVPs through vibe coding and agile practices
+- Engineer **autonomous AI workflows** and integrate LLMs using **Python** and modern APIs
+- Implement scalable backend solutions with **Firebase** (Auth, Firestore, Cloud Messaging)
+- Explore the intersection of mobile development, edge computing, and AI-driven interfaces
 
 ### 🛠️ Skills
-- **Languages:** Java, Python, Kotlin  
-- **Mobile Development:** Android Studio, Jetpack Compose  
-- **Backend & Cloud:** Firebase (Auth, Firestore, Realtime DB, Cloud Messaging)  
-- **AI/ML:** Prompt engineering, API integration, AI-powered recommendations  
-- **Tools & Platforms:** GitHub, Streamlit, Google Colab, Kaggle  
+- **Languages:** Kotlin, Python
+- **Mobile Development:** Android Studio, Jetpack Compose, MVVM Architecture
+- **Backend & Cloud:** Firebase, RESTful API Integration
+- **AI/ML:** Prompt Engineering, LLM Frameworks, AI-powered recommendations
+- **Tools & Platforms:** Git, GitHub
 
 ### 🌟 Strengths
-- Rapid prototyping and MVP development  
-- Clear documentation and public-facing project presentation  
-- Strong troubleshooting across devices and deployment workflows  
-- Passionate about building apps with real-world impact  
-
+- Accelerating MVP development and delivering robust user-facing applications
+- Integrating complex AI functionalities into intuitive mobile interfaces
+- Maintaining clean codebase architecture and clear project documentation
+- Passionate about pushing the boundaries of AI in practical, everyday apps
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saikumarvasupari@gmail.com) 
 
 # 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=VasupariSaikumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VasupariSaikumar&theme=dark&hide_border=false)<br/>
@@ -36,5 +35,3 @@ I recently created **Food AI**, an app that suggests the nearest food stalls bas
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VasupariSaikumar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
