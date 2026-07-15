@@ -29,9 +29,9 @@ Hi, I'm **Sai Kumar Vasupari** — an Android Developer Intern and B.Tech AIML s
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VasupariSaikumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VasupariSaikumar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasupariSaikumar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=VasupariSaikumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VasupariSaikumar&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VasupariSaikumar&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=VasupariSaikumar&icon=0&color=0)](https://visitcount.itsvg.in)
